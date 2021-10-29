@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, My name is Kyle Burden
+### Welcome to my GitHub Profile
 
 <!--
 **KyleBurden/KyleBurden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
